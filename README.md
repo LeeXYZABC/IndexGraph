@@ -1,7 +1,7 @@
 # IndexGraph
 Index Graph is a optimizer that converts the multi-hop gremlin query to the one-hop graph query, aiming to make the gremlin traversal complete in acceptable time.
 
-This project is developed based on the following works for querying large biological scientific graph data that has many super nodes and the query path is always larger than three.
+This project is developed based on the following work. The work is aimed to optimize the querying of large biological scientific graph data that has many super nodes and the query path is always larger than three.
 
 @inproceedings{li2017resilient,
   title={A Resilient Index Graph for Querying Large Biological Scientific Data},
