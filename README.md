@@ -1,2 +1,6 @@
 # IndexGraph
-Translate the multi-hop graph index to one-hop graph index
+Index Graph is a optimizer that converts the multi-hop gremlin query to the one-hop graph query, aiming to make the gremlin traversal complete in acceptable time.
+
+
+
+
